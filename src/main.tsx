@@ -726,14 +726,7 @@ function App() {
             </div>
 
             <p className="detail-description">
-              Ajoute simplement une nouvelle entrée
-              dans{" "}
-              <code>
-                src/data/templates.ts
-              </code>
-              , puis commit et push sur GitHub.
-              Tsukuri.Box n'a besoin d'aucune base
-              de données pour conserver ton catalogue.
+              D
             </p>
 
             <div className="detail-code">
