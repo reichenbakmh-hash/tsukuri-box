@@ -13,7 +13,7 @@ export default defineConfig({
         name: "Tsukuri.Box",
         short_name: "Tsukuri.Box",
         description:
-          "Bibliothèque personnelle de templates, starters et ressources développeur.",
+          "Bibliothèque personnelle de templates."
         theme_color: "#090d12",
         background_color: "#090d12",
         display: "standalone",
